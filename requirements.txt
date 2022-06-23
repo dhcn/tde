@@ -1,0 +1,12 @@
+jupyter = "*"
+numpy = "*"
+pandas = "*"
+pandas-datareader = "*"
+matplotlib = "*"
+statsmodels = "*"
+scikit-learn = "*"
+mplfinance = "*"
+tensorflow = "*"
+torch = "*"
+torchvision = "*"
+dask = {extras = ["complete"], version = "*"}
